@@ -1,0 +1,16 @@
+{
+	"experiences": [
+		{
+			"title": "Web Programmer",
+			"place": "PT. Media Sarana Data",
+			"time": "Feb '2015 to Dec '2019",
+			"description": "As a web programmer, my responsibility is to create web application or website like company profile from design database, creating UI from psd or image design and implement to server. Also maintain existing client, fix some bugs and updated some fiture."
+		},
+		{
+			"title": "IT Staff Programmer",
+			"place": "PT. Fukuryo Indonesia",
+			"time": "Jan '2020 to now",
+			"description": "I'm currently working at PT Fukuryo Indonesia, a manufacturing company from Japan that located in Semarang. As an IT Staff my responsibility is to maintain hardware and software at company and also create some internal system to assist company business."
+		}
+	]
+}
