@@ -1,0 +1,19 @@
+{
+	"works": [
+		{
+			"id": 1,
+			"title": "Sanjaya Group Company Profile",
+			"description": "",
+			"img": "",
+			"detail": {
+				"company": "Freelance Job",
+				"client": "Sanjaya Group",
+				"works": "Front End",
+				"technology": [
+					"codeigniter 3", "php 7.4", "jquery", "bootstrap 4", "mysql"
+				],
+				"url": "https://stbcompanygroup.com/"
+			}
+		}
+	]
+}
