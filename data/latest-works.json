@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"title": "Sanjaya Group Company Profile",
-			"description": "PT. Sanjaya Thanry Bahtera is a company engaged in employment services that continues to innovate and plays an active role in the success of government programs, especially in the field of manpower",
+			"description": "PT. Sanjaya Thanry Bahtera is a company engaged in employment services that continues to innovate and plays an active role in the success of government programs, especially in the field of manpower.",
 			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/sanjaya.png",
 			"module": [
 				"cms", "landing page", "editable content", "register", "inbox"
@@ -16,6 +16,24 @@
 					"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
 				],
 				"url": "https://stbcompanygroup.com/"
+			}
+		},
+		{
+			"id": 2,
+			"title": "INTA App Landing Page",
+			"description": "Inta is a transportation application, located in Manado North Sulawesi Indonesia.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/intaapp.id.png",
+			"module": [
+				"landing page", "register"
+			],
+			"detail": {
+				"company": "Freelance Job",
+				"client": "CV Torang Punya Aplikasi (INTA)",
+				"works": "Front End",
+				"technologies": [
+					"php", "jquery", "bootstrap 4"
+				],
+				"url": "https://intaapp.id"
 			}
 		}
 	]
