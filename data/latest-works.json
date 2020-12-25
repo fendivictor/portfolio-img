@@ -8,15 +8,13 @@
 			"module": [
 				"cms", "landing page", "editable content", "register", "inbox"
 			],
-			"detail": {
-				"company": "Freelance Job",
-				"client": "Sanjaya Group",
-				"works": "Front End",
-				"technologies": [
-					"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
-				],
-				"url": "https://stbcompanygroup.com/"
-			}
+			"company": "Freelance Job",
+			"client": "Sanjaya Group",
+			"works": "Front End",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
+			],
+			"url": "https://stbcompanygroup.com/"
 		},
 		{
 			"id": 2,
@@ -26,15 +24,13 @@
 			"module": [
 				"landing page", "register"
 			],
-			"detail": {
-				"company": "Freelance Job",
-				"client": "CV Torang Punya Aplikasi (INTA)",
-				"works": "Front End",
-				"technologies": [
-					"php", "jquery", "bootstrap 4"
-				],
-				"url": "https://intaapp.id"
-			}
+			"company": "Freelance Job",
+			"client": "CV Torang Punya Aplikasi (INTA)",
+			"works": "Front End",
+			"technologies": [
+				"php", "jquery", "bootstrap 4"
+			],
+			"url": "https://intaapp.id"
 		}
 	]
 }
