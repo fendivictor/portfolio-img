@@ -2,19 +2,13 @@
 	"works": [
 		{
 			"id": 1,
-			"title": "Sanjaya Group Company Profile",
-			"description": "PT. Sanjaya Thanry Bahtera is a company engaged in employment services that continues to innovate and plays an active role in the success of government programs, especially in the field of manpower.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/sanjaya.png",
-			"module": [
-				"cms", "landing page", "editable content", "register", "inbox"
-			],
-			"company": "Freelance Job",
-			"client": "Sanjaya Group",
-			"works": "Front End",
+			"title": "INTA Mobile App (Backend)",
+			"description": "INTA Mobile App, order transportation via mobile apps. Driver setup the trip and user can choose the trip by driver and also by their origin and destination.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20App.jpg",
 			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
+				"codeigniter 3", "php", "mysql", "restfull api"
 			],
-			"url": "https://stbcompanygroup.com/"
+			"url": "https://play.google.com/store/apps/details?id=com.project.manjo"
 		},
 		{
 			"id": 2,
@@ -34,22 +28,28 @@
 		},
 		{
 			"id": 3,
-			"title": "INTA Mobile App (Backend)",
-			"description": "INTA Mobile App, order transportation via mobile apps. Driver setup the trip and user can choose the trip by driver and also by their origin and destination.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20App.jpg",
-			"technologies": [
-				"codeigniter 3", "php", "mysql", "restfull api"
-			],
-			"url": "https://play.google.com/store/apps/details?id=com.project.manjo"
-		},
-		{
-			"id": 4,
 			"title": "INTA Admin Panel",
 			"description": "Admin panel of INTA Mobile app, to control transaction, driver registration, withdrawal and broadcast message.",
 			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20Admin.PNG",
 			"technologies": [
 				"codeigniter 3", "php", "mysql", "bootstrap 4", "jquery"
 			]
-		}
+		},
+		{
+			"id": 4,
+			"title": "Sanjaya Group Company Profile",
+			"description": "PT. Sanjaya Thanry Bahtera is a company engaged in employment services that continues to innovate and plays an active role in the success of government programs, especially in the field of manpower.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/sanjaya.png",
+			"module": [
+				"cms", "landing page", "editable content", "register", "inbox"
+			],
+			"company": "Freelance Job",
+			"client": "Sanjaya Group",
+			"works": "Front End",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
+			],
+			"url": "https://stbcompanygroup.com/"
+		},
 	]
 }
