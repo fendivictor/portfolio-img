@@ -61,6 +61,26 @@
 				"codeigniter 3", "php", "jquery", "bootstrap", "mysql"
 			],
 			"url": "https://isidw.com"
+		},
+		{
+			"id": 6,
+			"title": "HR Application (Arjuna)",
+			"description": "HR Application of CV. Putmasari pratama to monitor employee attendance, approval, recruitment and payroll.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/arjuna-web.png",
+			"technologies": [
+				"codeigniter 2", "php", "jquery", "bootstrap", "mysql", "stored procedure", "mysql function"
+			],
+			"url": "-"
+		},
+		{
+			"id": 7,
+			"title": "Customer Service Application",
+			"description": "Application to communicate with customer via Chat, Confirmation of Customer Deposit, Broadcast Promo to Customer and Customer Survey and also bank automation confirmation",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/cs-web.png",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "bank automation"
+			],
+			"url": "-"
 		}
 	]
 }
