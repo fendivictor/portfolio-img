@@ -50,6 +50,15 @@
 				"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
 			],
 			"url": "https://stbcompanygroup.com/"
+		},
+		{
+			"id": 5,
+			"title": "ISIDW Type-S",
+			"description": "ISIDW is application of CV. Putmasari pratama (Authorized Dealer of Telkomsel Indonesia). The Customers of putmasari can buy goods with this application 24 hours. This application also using wallet system to deposit their balance.",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap", "mysql"
+			],
+			"url": "https://isidw.com"
 		}
 	]
 }
