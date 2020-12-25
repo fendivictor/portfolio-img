@@ -31,6 +31,25 @@
 				"php", "jquery", "bootstrap 4"
 			],
 			"url": "https://intaapp.id"
+		},
+		{
+			"id": 3,
+			"title": "INTA Mobile App (Backend)",
+			"description": "INTA Mobile App, order transportation via mobile apps. Driver setup the trip and user can choose the trip by driver and also by their origin and destination.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20App.jpg",
+			"technologies": [
+				"codeigniter 3", "php", "mysql", "restfull api"
+			],
+			"url": "https://play.google.com/store/apps/details?id=com.project.manjo"
+		},
+		{
+			"id": 4,
+			"title": "INTA Admin Panel",
+			"description": "Admin panel of INTA Mobile app, to control transaction, driver registration, withdrawal and broadcast message.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20Admin.PNG",
+			"technologies": [
+				"codeigniter 3", "php", "mysql", "bootstrap 4", "jquery"
+			]
 		}
 	]
 }
