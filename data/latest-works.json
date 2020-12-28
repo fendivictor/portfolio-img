@@ -81,6 +81,16 @@
 				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "bank automation"
 			],
 			"url": "-"
+		}, 
+		{
+			"id": 8, 
+			"title": "Selbi (Beta)",
+			"description": "Merchandise ecommerce with public figure on it. Public figure can sell Merchandise or preloved item. This platform is to connecting between fans and artist or public figure.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/selbi.png",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "midtrans", "hmvc"
+			],
+			"url": "https://selbi.co.id/beta/"
 		}
 	]
 }
