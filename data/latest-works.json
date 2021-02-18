@@ -83,7 +83,17 @@
 			"url": "-"
 		},
 		{
-			"id": 8,
+			"id": 8, 
+			"title": "Selbi (Beta)",
+			"description": "Merchandise ecommerce with public figure on it. Public figure sell their Merchandise or preloved item. This platform is to connecting between fans and artist or public figure.",
+			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/selbi.png",
+			"technologies": [
+				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "midtrans", "hmvc"
+			],
+			"url": "https://selbi.co.id/beta/"
+		},
+		{
+			"id": 9,
 			"title": "Product Control (Barcode Inventory)",
 			"description": "Inventory System using barcode on item. User can transfer to spesific location of item by scanning the barcode at item. User can get realtime information of item stock.",
 			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/product-control1.png",
