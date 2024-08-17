@@ -1,106 +1,18 @@
 {
-	"works": [
-		{
-			"id": 1,
-			"title": "INTA Mobile App (Backend)",
-			"description": "INTA Mobile App, order transportation via mobile apps. Driver setup the trip and user can choose the trip by driver and also by their origin and destination.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20App.jpg",
-			"technologies": [
-				"codeigniter 3", "php", "mysql", "restfull api"
-			],
-			"url": "https://play.google.com/store/apps/details?id=com.project.manjo"
-		},
-		{
-			"id": 2,
-			"title": "INTA App Landing Page",
-			"description": "Inta is a transportation application, located in Manado North Sulawesi Indonesia.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/intaapp.id.png",
-			"module": [
-				"landing page", "register"
-			],
-			"company": "Freelance Job",
-			"client": "CV Torang Punya Aplikasi (INTA)",
-			"works": "Front End",
-			"technologies": [
-				"php", "jquery", "bootstrap 4"
-			],
-			"url": "https://intaapp.id"
-		},
-		{
-			"id": 3,
-			"title": "INTA Admin Panel",
-			"description": "Admin panel of INTA Mobile app, to control transaction, driver registration, withdrawal and broadcast message.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/INTA%20Admin.PNG",
-			"technologies": [
-				"codeigniter 3", "php", "mysql", "bootstrap 4", "jquery"
-			],
-			"url": "-"
-		},
-		{
-			"id": 4,
-			"title": "Sanjaya Group Company Profile",
-			"description": "PT. Sanjaya Thanry Bahtera is a company engaged in employment services that continues to innovate and plays an active role in the success of government programs, especially in the field of manpower.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/sanjaya.png",
-			"module": [
-				"cms", "landing page", "editable content", "register", "inbox"
-			],
-			"company": "Freelance Job",
-			"client": "Sanjaya Group",
-			"works": "Front End",
-			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap 4", "mysql"
-			],
-			"url": "https://stbcompanygroup.com/"
-		},
-		{
-			"id": 5,
-			"title": "ISIDW Type-S",
-			"description": "ISIDW is application of CV. Putmasari pratama (Authorized Dealer of Telkomsel Indonesia). The Customers of putmasari can buy goods with this application 24 hours. This application also using wallet system to deposit their balance.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/isidw-type-s.PNG",
-			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap", "mysql"
-			],
-			"url": "https://isidw.com"
-		},
-		{
-			"id": 6,
-			"title": "HR Application (Arjuna)",
-			"description": "HR Application of CV. Putmasari pratama to monitor employee attendance, approval, recruitment and payroll.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/arjuna-web.png",
-			"technologies": [
-				"codeigniter 2", "php", "jquery", "bootstrap", "mysql", "stored procedure", "mysql function"
-			],
-			"url": "-"
-		},
-		{
-			"id": 7,
-			"title": "Customer Service Application",
-			"description": "Application to communicate with customer via Chat, Confirmation of Customer Deposit, Broadcast Promo to Customer and Customer Survey and also bank automation confirmation",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/cs-web.png",
-			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "bank automation"
-			],
-			"url": "-"
-		},
-		{
-			"id": 8, 
-			"title": "Selbi (Beta)",
-			"description": "Merchandise ecommerce with public figure on it. Public figure sell their Merchandise or preloved item. This platform is to connecting between fans and artist or public figure.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/selbi.png",
-			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "midtrans", "hmvc"
-			],
-			"url": "https://selbi.co.id/beta/"
-		},
-		{
-			"id": 9,
-			"title": "Product Control (Barcode Inventory)",
-			"description": "Inventory System using barcode on item. User can transfer to spesific location of item by scanning the barcode at item. User can get realtime information of item stock.",
-			"img": "https://raw.githubusercontent.com/fendivictor/portfolio-img/master/img/product-control.PNG",
-			"technologies": [
-				"codeigniter 3", "php", "jquery", "bootstrap", "mysql", "sql server", "integration"
-			],
-			"url": "-"
-		}
-	]
+  "works": [
+    {
+      "title": "Employee Management System",
+      "description": "Developed a comprehensive Employee Management System to manage employee data, attendance, leave, permits, and payroll.",
+      "role": "PT Media Sarana Data | Feb 2016 – Dec 2019",
+      "technologies": "PHP (CodeIgniter 3), JavaScript (jQuery), MySQL",
+      "impact": "Streamlined HR processes, reducing manual workload and improving data accuracy and accessibility."
+    },
+    {
+      "title": "Barcode Inventory System",
+      "description": "Developed a Barcode Inventory System to control product stock, manage rejected goods, and oversee export processes.",
+      "role": "PT Fukuryo Indonesia | Jan 2020 – Sep 2021",
+      "technologies": "PHP, JavaScript, MySQL, SQL Server",
+      "impact": "Enhanced inventory accuracy, streamlined product tracking, and improved management’s ability to make data-driven production decisions."
+    }
+  ]
 }
