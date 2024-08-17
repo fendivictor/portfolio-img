@@ -19,7 +19,14 @@
       "description": "Developed a 24/7 top-up management and PPOB purchase system for resellers with automatic payment verification.",
       "role": "CV Putmasari Pratama (Telkomsel Authorized Dealer) - Freelance",
       "technologies": "PHP, JavaScript, MySQL",
-      "impact": "Enhanced user experience by enabling instant transactions and increased operational efficiency with automation.",
+      "impact": "Enhanced user experience by enabling instant transactions and increased operational efficiency with automation."
+    },
+    {
+      "title": "Electricity Certification Registration and Scheduling System",
+      "description": "Developed a registration and scheduling system for electricity certification integrated with the Dirjen Ketenagalistrikan API.",
+      "role": "PT Gemapedekabe - Freelance",
+      "technologies": "PHP, JavaScript, MySQL",
+      "impact": "Improved efficiency in managing certification processes and ensured compliance with regulatory requirements."
     }
   ]
 }
