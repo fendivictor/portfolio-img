@@ -13,6 +13,13 @@
       "role": "PT Fukuryo Indonesia | Jan 2020 – Sep 2021",
       "technologies": "PHP, JavaScript, MySQL, SQL Server",
       "impact": "Enhanced inventory accuracy, streamlined product tracking, and improved management’s ability to make data-driven production decisions."
+    },
+    {
+      "title": "Top-Up Management and PPOB Purchase System",
+      "description": "Developed a 24/7 top-up management and PPOB purchase system for resellers with automatic payment verification.",
+      "role": "CV Putmasari Pratama (Telkomsel Authorized Dealer) - Freelance",
+      "technologies": "PHP, JavaScript, MySQL",
+      "impact": "Enhanced user experience by enabling instant transactions and increased operational efficiency with automation.",
     }
   ]
 }
